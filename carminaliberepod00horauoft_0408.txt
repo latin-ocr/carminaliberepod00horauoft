@@ -1,0 +1,80 @@
+364 HoRACE, EPODE 1.
+
+The first 10 Epodes are written in the same mette, a couplet
+consisting of an ordinary iambic trimeter, followed by an iambic
+dimeter. The scheme, as employed by Horace, is as follows:
+
+(1) For the longer line (trimeter):
+
+§.r— ν- v— hd— ν.- vg
+
+*vv &vv νυν ννν
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-vv —vv
+
+vv—
+
+The caesura occurs either in the third foot or in the fourth.
+Tribrachs, dactyls and anapaests occur rarely, only 31 times altogether
+in 311 lines. (Ramsay, Latin Prosody‚ p. 193.)
+
+(2) For the shorter line (dimeter), the scheme is the same as sor the
+
+ι last four feet of the longer.
+
+Epode 11 is in a metre called the Third Archilochian, consisting of
+an iambic trimeter followed by an Elegiambus of the form
+
+-vvl-vvlg'v—lv-lz-¹v=··
+
+It will be seen that this is a combination of the second half of an
+elegiae pentameter with an iambic dimeter. The combination is
+asynartete (i.e. imperfectly joined), for the last syllable of the first
+portion is not affected in scansion by the first syllable of the second
+portion (see lines 6 and 14).
+
+Epode 12 is in the metre called Alcmanian (employed in Carm. 1.
+7 and 28), consisting of couplets of dactylic hexameters and tetra-
+meters.
+
+Epode 13 is in the Second Archilochian, composed of a dactylic
+hexameter followed by an lambelegus of the form
+
+0
+ν-ν-Σ-νὲ Ι -vv ι-υνιζ.
+
+This is a combination, in reverse order, of the same parts as the
+elegiambic. It is also asynartete.
+
+Epodes 14 and t 5 are in Pythiambic couplets, consisting of a dactylic
+hexameter followed by an iambic dimeter (of pure iambics).
+
+Epode 16 is in Pythiambic couplets of another kind, consisting of a
+dactylic hexameter followed by an iambic trimeter (of pure iambics).
+(The word pytlzz'ambic is derived from pythius, a name given to the
+hexameter because it was the mette used in the Pythian, 1.e. Delphic,
+oracles.) ’
+
+Epode 17 is not properly called an epode, for it is in lines of
+uniform scansion, viz. iambic trimeters.
+
+1.
+
+‘You are going, Maecenas, to sace the ponderous warships of
+the enemy. I am resolved to go with you. For I love you so much
+that Ι cannot be happy save in your company.’
+
+It is clear from line 31 that this Epode was written after B.c. 35
+when Maecenas had given the poet his Sabine farm (Introd. p. xiii).
+The diction of lines 1 and 2 leaves no reasonable doubt that Maecenas
+
